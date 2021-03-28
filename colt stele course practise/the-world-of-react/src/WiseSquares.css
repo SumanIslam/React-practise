@@ -1,0 +1,12 @@
+.WiseSquares {
+  /* margin-top: 10rem; */
+  height: 150px;
+  width: 150px;
+  background-color: purple;
+  margin: auto;
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 200%;
+}

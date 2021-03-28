@@ -1,0 +1,18 @@
+.ButtonList {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 5rem;
+}
+.ButtonList button {
+  padding: 0.8rem 1.3rem;
+  border: none;
+  font-size: 120%;
+  border-radius: 10px;
+}
+.ButtonList button:hover {
+  cursor: pointer;
+}
+.ButtonList button:focus {
+  outline: none;
+}
