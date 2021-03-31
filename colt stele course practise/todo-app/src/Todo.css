@@ -1,0 +1,13 @@
+.Todo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 95%;
+  margin-bottom: 0.1rem;
+  padding: 0 1rem;
+  background-color: aqua;
+}
+.Todo-icon i{
+  display: inline-block;
+  margin-left: 0.5rem;
+}
